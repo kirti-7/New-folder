@@ -528,7 +528,7 @@ img{
     .skills_container svg{
         width: 100%;
     }
-    .about_container{
-        
+    .nav{
+        height: 4rem;
     }
 }
